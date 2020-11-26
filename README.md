@@ -1,4 +1,4 @@
-![screenshot](/Assets/ReadMeRes/screenshot_001.png "Gameplay screenshot")
+![screenshot](/Assets/ReadMeRes/screenshot_001.jpg "Gameplay screenshot")
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
