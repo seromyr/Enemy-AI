@@ -3,6 +3,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Demo](#demo)
+* [AI design diagram chart](#ai-design-diagram)
 
 ## General info
 This is a PAC-Man inspired 3D game to demonstrate my knowledge about AI state machine
@@ -14,3 +15,6 @@ Game is created with:
 
 ## Demo
 Play the demo [here](https://www.seromyr.com/ai-state-machine)
+
+## AI design diagram
+![flowchart](/Assets/ReadMeRes/AI_Diagram.jpeg "AI Flow Chart")
